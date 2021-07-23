@@ -31,6 +31,7 @@
     },
     "configurationArguments": {
       "applicationExtensionKey": "a5cd3e5b-bbb3-490f-8250-31cf4cdfd009",
+      "applicationExtensionID": "a5cd3e5b-bbb3-490f-8250-31cf4cdfd009",
        "save": {
            "url": "https://twilio-sfmc-sixt.herokuapp.com/journeybuilder/save",
             "verb": "POST",
