@@ -32,7 +32,7 @@
     "configurationArguments": {
       "applicationExtensionKey": "0bd1abc2-700d-49aa-bb2c-cc01beff8faa",
        "save": {
-           "url": "https://twilio-sfmc-sixt.herokuapp.com/save",
+           "url": "https://twilio-sfmc-sixt.herokuapp.com/journeybuilder/save",
             "verb": "POST",
             "body": "",
             "format": "json",
@@ -40,7 +40,7 @@
             "timeout": 2000
        },
        "publish": {
-           "url": "https://twilio-sfmc-sixt.herokuapp.com/publish",
+           "url": "https://twilio-sfmc-sixt.herokuapp.com/journeybuilder/publish",
             "verb": "POST",
             "body": "",
             "format": "json",
@@ -48,7 +48,7 @@
             "timeout": 2000
        },
        "validate": {
-           "url": "https://twilio-sfmc-sixt.herokuapp.com/validate",
+           "url": "https://twilio-sfmc-sixt.herokuapp.com/journeybuilder/validate",
             "verb": "POST",
             "body": "",
             "format": "json",
@@ -56,7 +56,7 @@
             "timeout": 2000
        },
        "stop": {
-           "url": "https://twilio-sfmc-sixt.herokuapp.com/stop",
+           "url": "https://twilio-sfmc-sixt.herokuapp.com/journeybuilder/stop",
             "verb": "POST",
             "body": "",
             "format": "json",
